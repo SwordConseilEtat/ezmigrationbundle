@@ -1,5 +1,5 @@
 {
-    "name": "kaliop/ezmigrationbundle",
+    "name": "SwordConseilEtat/ezmigrationbundle",
     "type": "symfony-bundle",
     "description": "Kaliop eZ-Migration Bundle",
     "keywords": ["migrations", "database", "ezpublish"],
